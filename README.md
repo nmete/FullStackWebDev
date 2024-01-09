@@ -1,5 +1,3 @@
 This Full Stack web dev bootcamp by Angela.
-The technologies learned are:
-HTML
-CSS
-JavaScript
+
+Status: Onging (9/1/2024)
